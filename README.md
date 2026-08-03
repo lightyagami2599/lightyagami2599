@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/portrait.jpeg" width="180" style="border-radius:50%" alt="Vibhu Vishwakarma" />
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner" />
+</p>
 
 # ✦ Vibhu Vishwakarma ✦
 
