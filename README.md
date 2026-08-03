@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/portrait.jpeg" width="1000" alt="Vibhu Vishwakarma" />
+  <img src="assets/portrait.jpeg" width="1500" alt="Vibhu Vishwakarma" />
 </p>
 # ✦ Vibhu Vishwakarma ✦
 
