@@ -1,9 +1,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner" />
+  <img src="assets/portrait.jpeg" width="300" alt="Vibhu Vishwakarma" />
 </p>
-
 # ✦ Vibhu Vishwakarma ✦
 
 **Software Engineer · Building calm, useful things on the web**
