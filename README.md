@@ -24,10 +24,15 @@ vishwakarmavibhu27@gmail.com ~ % whoami
 
 ## 🧭 About Me
 
-- 🎓 Engineering student, learning by building in public
-- 🛠️ I like clean interfaces, sensible backends, and tools that feel calm
-- 🌱 Currently exploring AI-powered products and 3D web experiences
-- 📫 Reach me at **vishwakarmavibhu27@gmail.com**
+I enjoy building production-ready AI products,
+interactive 3D experiences,
+and modern full-stack applications.
+
+Currently exploring
+AI Agents,
+Three.js,
+and scalable SaaS architecture.
+📫 Reach me at **vishwakarmavibhu27@gmail.com**
 
 ---
 
