@@ -97,9 +97,7 @@ My personal portfolio — motion, story, and craft.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lightyagami2599&show_icons=true&hide_border=true&count_private=true&theme=graywhite)
 ![Streak](https://streak-stats.demolab.com?user=lightyagami2599&hide_border=true&theme=graywhite)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lightyagami2599&layout=compact&hide_border=true&theme=graywhite)
 
 </div>
 
